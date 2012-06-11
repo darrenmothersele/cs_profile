@@ -1,3 +1,4 @@
 modules/contrib/*
+modules/custom/course_source/*
 themes/contrib/*
 libraries/*
