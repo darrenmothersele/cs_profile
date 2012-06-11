@@ -7,4 +7,4 @@ projects[drupal][patch][] = "http://drupal.org/files/1216776-contextual-links-ne
 
 projects[cs_profile][type] = "profile"
 projects[cs_profile][download][type] = "git"
-projects[cs_profile][download][url] = "git@github.com/darrenmothersele/cs_profile.git"
+projects[cs_profile][download][url] = "git@github.com:darrenmothersele/cs_profile.git"
