@@ -18,6 +18,8 @@ dependencies[] = search
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = admin_menu
-dependencies[] = features
+dependencies[] = course_source_api
+dependencies[] = course_source_admin
+dependencies[] = course_source_mycourses
 
 files[] = cs_profile.profile
